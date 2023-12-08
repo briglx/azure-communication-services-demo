@@ -1,0 +1,5 @@
+azure-communication-email==1.0.0
+azure-communication-phonenumbers==1.1.0
+azure-communication-sms==1.0.1
+azure-identity==1.15.0
+python-dotenv==1.0.0
